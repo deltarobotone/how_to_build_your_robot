@@ -1,6 +1,6 @@
 # Welcome robot friends! 
 
-Use [this link](https://github.com/deltarobotone/how_to_build_your_one/wiki) for the how to build your robot wiki! 
+[**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
 
