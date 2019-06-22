@@ -20,7 +20,6 @@ Follow us on Instagram and share your time with this smart little robot [#deltar
 # Video gallery 
 [<img src="http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg" width="250">](http://www.youtube.com/watch?v=m6nE2A7ZUi0 "")
 [<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="250">](http://www.youtube.com/watch?v=MGw2fCCIe-g "")
-[<img src="http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg" width="250">](http://www.youtube.com/watch?v=3GcX2WYTDjQ "")
 [<img src="http://img.youtube.com/vi/rs2U6MSEfQM/0.jpg" width="250">](http://www.youtube.com/watch?v=rs2U6MSEfQM "")
 [<img src="http://img.youtube.com/vi/hkPoAHTrr7U/0.jpg" width="250">](http://www.youtube.com/watch?v=hkPoAHTrr7U "")
 [<img src="http://img.youtube.com/vi/ntK9TCerEtc/0.jpg" width="250">](http://www.youtube.com/watch?v=ntK9TCerEtc "")
