@@ -18,13 +18,13 @@ Follow us on Instagram and share your time with this smart little robot [#deltar
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 # Video gallery 
-[![](http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg)](http://www.youtube.com/watch?v=m6nE2A7ZUi0 "")
-[![](http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg)](http://www.youtube.com/watch?v=MGw2fCCIe-g "")
-[![](http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg)](http://www.youtube.com/watch?v=3GcX2WYTDjQ "")
-[![](http://img.youtube.com/vi/rs2U6MSEfQM/0.jpg)](http://www.youtube.com/watch?v=rs2U6MSEfQM "")
-[![](http://img.youtube.com/vi/hkPoAHTrr7U/0.jpg)](http://www.youtube.com/watch?v=hkPoAHTrr7U "")
-[![](http://img.youtube.com/vi/ntK9TCerEtc/0.jpg)](http://www.youtube.com/watch?v=ntK9TCerEtc "")
-[![](http://img.youtube.com/vi/1ZWHZ4IDjtM/0.jpg)](http://www.youtube.com/watch?v=1ZWHZ4IDjtM "")
+[![](http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg)width="250"](http://www.youtube.com/watch?v=m6nE2A7ZUi0 "")
+[![](http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg)width="250"](http://www.youtube.com/watch?v=MGw2fCCIe-g "")
+[![](http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg)width="250"](http://www.youtube.com/watch?v=3GcX2WYTDjQ "")
+[![](http://img.youtube.com/vi/rs2U6MSEfQM/0.jpg)width="250"](http://www.youtube.com/watch?v=rs2U6MSEfQM "")
+[![](http://img.youtube.com/vi/hkPoAHTrr7U/0.jpg)width="250"](http://www.youtube.com/watch?v=hkPoAHTrr7U "")
+[![](http://img.youtube.com/vi/ntK9TCerEtc/0.jpg)width="250"](http://www.youtube.com/watch?v=ntK9TCerEtc "")
+[![](http://img.youtube.com/vi/1ZWHZ4IDjtM/0.jpg)width="250"](http://www.youtube.com/watch?v=1ZWHZ4IDjtM "")
 
 
 # Image gallery
