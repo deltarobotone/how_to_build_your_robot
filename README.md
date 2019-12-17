@@ -27,7 +27,7 @@ For more information about One Smart Control have look on the wiki page of this 
 
 [**>>>One Smart Control Wiki<<<**](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="100">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="1000">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
 # Video gallery 
 [<img src="http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg" width="250">](http://www.youtube.com/watch?v=m6nE2A7ZUi0 "")
