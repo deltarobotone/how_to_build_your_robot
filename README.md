@@ -9,7 +9,7 @@ different fields - electronics, mechanics and informatics.
 The usage is quite easy, so everyone is invited to have some time with this smart robot. 
 The arduino based system helps you to do the first steps easily. If you would like to go more into detail you can do this without any problem because the software is open source.
 
-[**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
+# [**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
 
@@ -21,7 +21,7 @@ Follow us on Instagram and share your time with this smart little robot [#deltar
 
 <Img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(8).PNG" width=300>
 
-# [**>>>Download here<<<**](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip) 
+[**>>>Download here<<<**](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip) 
 
 For more information about One Smart Control have look on the wiki page of this repository.
 
