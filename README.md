@@ -23,6 +23,20 @@ Follow us on Instagram and share your time with this smart little robot [#deltar
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="750">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
+# Hardware parts and documentation! 
+
+For everyone who like to build Delta-Robot One there is a way to do this. In this repository you get all information and files to produce this smart little robot by yourself. 
+
+[>>> Hardware parts wiki<<<](https://github.com/deltarobotone/hardware_parts/wiki)
+
+| Parts/Documentation| Image|
+| --- | --- |
+| [Layers parts](https://github.com/deltarobotone/hardware_parts/wiki/Layers-parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(7).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Layers-parts) |
+| [Electronic parts](https://github.com/deltarobotone/hardware_parts/wiki/Electronic-parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(2).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Electronic-parts) |
+| [3D-Printed<br>Mechanic parts](https://github.com/deltarobotone/hardware_parts/wiki/3D-Printed-Parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/3D-Printed-Parts) |
+|[Metal<br>Mechanic parts](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-parts) | [<img src="https://github.com/deltarobotone/image_database/blob/master/metal_parts/metal_parts%20(1).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-parts) |
+|[Circuitboard Schematics](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics) | [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(31).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics) |
+
 # Video gallery 
 [<img src="http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg" width="250">](http://www.youtube.com/watch?v=m6nE2A7ZUi0 "")
 [<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="250">](http://www.youtube.com/watch?v=MGw2fCCIe-g "")
