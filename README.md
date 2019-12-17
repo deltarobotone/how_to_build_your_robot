@@ -13,21 +13,15 @@ The arduino based system helps you to do the first steps easily. If you would li
 
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
 
-# Copyright Notice
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
 # One Smart Control Desktop Software 
 
 <Img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(8).PNG" width=300>
 
 [**>>>Download here<<<**](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip) 
 
-For more information about One Smart Control have look on the wiki page of this repository.
-
 [**>>>One Smart Control Wiki<<<**](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="1000">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="850">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
 # Video gallery 
 [<img src="http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg" width="250">](http://www.youtube.com/watch?v=m6nE2A7ZUi0 "")
@@ -54,3 +48,7 @@ For more information about One Smart Control have look on the wiki page of this 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/black_edition/black_edition%20(5).PNG" width="250">](https://raw.githubusercontent.com/deltarobotone/image_database/master/black_edition/black_edition%20(5).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/black_edition/black_edition%20(6).PNG" width="250">](https://raw.githubusercontent.com/deltarobotone/image_database/master/black_edition/black_edition%20(6).PNG)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/black_edition/black_edition%20(7).PNG" width="250">](https://raw.githubusercontent.com/deltarobotone/image_database/master/black_edition/black_edition%20(7).PNG)
+
+# Copyright Notice
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
