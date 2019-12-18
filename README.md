@@ -17,19 +17,19 @@ Follow us on Instagram and share your time with this smart little robot [#deltar
 
 <Img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(8).PNG" width=300>
 
-# One Smart Control Desktop for Windows 10
+## One Smart Control Desktop for Windows 10
 
-[**>>>Download here<<<**](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip) 
+### [**>>>Download here<<<**](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip) 
 
-[**>>>One Smart Control Wiki<<<**](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
+### [**>>>One Smart Control Desktop Wiki<<<**](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="750">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
-# One Smart Control Mobile for Android
+## One Smart Control Mobile for Android
 
-# [**>>>Google Play Store<<<**](https://play.google.com/store/apps/details?id=one.smart.control.mobile&gl=DE)
+### [**>>>Google Play Store<<<**](https://play.google.com/store/apps/details?id=one.smart.control.mobile&gl=DE)
 
-[**>>>One Smart Control Wiki<<<**](https://github.com/deltarobotone/one_smart_control_mobile/wiki)
+### [**>>>One Smart Control Mobile Wiki<<<**](https://github.com/deltarobotone/one_smart_control_mobile/wiki)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(4).png" width="100">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(4).png)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png" width="100">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png)
