@@ -11,6 +11,9 @@ The arduino based system helps you to do the first steps easily. If you would li
 
 # [**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
+[<img src="https://github.com/deltarobotone/how_to_build_your_robot/blob/master/deltarobotone/PNG/DeltaRobotOne1.png" width="400">](https://github.com/deltarobotone/how_to_build_your_robot/wiki)
+[<img src="https://github.com/deltarobotone/how_to_build_your_robot/blob/master/deltarobotone/PNG/DeltaRobotOne2.png" width="400">](https://github.com/deltarobotone/how_to_build_your_robot/wiki)
+
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
 
 # One Smart Control
