@@ -56,7 +56,7 @@ For everyone who like to build Delta-Robot One there is a way to do this. In thi
 |[Layers Drawings](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings) | [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(1).png" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings) |
 |[Mechanic Drawings](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-Drawings) | [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(1).png" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-Drawings)  |
 |[Kinematics](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Kinematics) | [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(6).png" width="300">](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Kinematics)  |
-|[Workingspace](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Workingspace) | [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(6).png" width="300">](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Kinematics)  |
+|[Workingspace](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Workingspace) | [<img src="https://raw.githubusercontent.com/deltarobotone/how_to_build_your_robot/master/deltarobotone/PNG/Workingspace.png" width="300">](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Workingspace)  |
 
 
 # Video gallery 
