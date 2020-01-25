@@ -64,6 +64,7 @@ For everyone who like to build Delta-Robot One there is a way to do this. In thi
 [<img src="http://img.youtube.com/vi/hkPoAHTrr7U/0.jpg" width="250">](http://www.youtube.com/watch?v=hkPoAHTrr7U "")
 [<img src="http://img.youtube.com/vi/ntK9TCerEtc/0.jpg" width="250">](http://www.youtube.com/watch?v=ntK9TCerEtc "")
 [<img src="http://img.youtube.com/vi/1ZWHZ4IDjtM/0.jpg" width="250">](http://www.youtube.com/watch?v=1ZWHZ4IDjtM "")
+[<img src="http://img.youtube.com/vi/2g2lItaFIQA/0.jpg" width="250">](https://youtu.be/2g2lItaFIQA)
 
 
 # Image gallery
