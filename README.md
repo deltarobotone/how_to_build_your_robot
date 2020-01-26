@@ -39,6 +39,17 @@ Follow us on Instagram and share your time with this smart little robot [#deltar
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png)
 
+# Servo Motor
+
+We change the servo motor from Tower Pro MG91 to MG92B because of the availibility. Adafruit Industries provide this motor and so you can easily get this part from providers like mouser, conrad and so on. The form factor is the same and the torque a little bit higher so all in all it is an advantage to use this servo motor. Thanks to Adafruit to provide this part. A few more parts of this robot are provided by Adafruit like the magnet gripper, leds and in the future it is planned to integrate the bluefruit module.
+
+Tower Pro MG92B<br>Gear: Metal<br>Dimension: 22.8x12x31 mm<br>Torque: 3.1kg/cm (4.8v)<br>Speed: 0.13sec/60degree (4.8v)<br>Voltage: 4.8~6.6v
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(25).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(25).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(26).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(26).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(27).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(27).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(28).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(28).PNG)
+
 # Hardware parts and documentation! 
 
 For everyone who like to build Delta-Robot One there is a way to do this. In this repository you get all information and files to produce this smart little robot by yourself. 
