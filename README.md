@@ -45,10 +45,10 @@ We change the servo motor from Tower Pro MG91 to MG92B because of the availibili
 
 Tower Pro MG92B<br>Gear: Metal<br>Dimension: 22.8x12x31 mm<br>Torque: 3.1kg/cm (4.8v)<br>Speed: 0.13sec/60degree (4.8v)<br>Voltage: 4.8~6.6v
 
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(25).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(25).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(26).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(26).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(27).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(27).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(28).PNG" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(28).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(25).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(25).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(26).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(26).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(27).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(27).PNG)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(28).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(28).PNG)
 
 # Hardware parts and documentation! 
 
