@@ -14,6 +14,14 @@ Delta-Robot One is mainly designed for students and makers with an educational t
 
 Let's introduce this smart little robot. His name is „One“ because he combines a lot of technical topics in one single system. This kind of robot is called delta and it belongs to the family of parallel robots.
 
+# Social Media
+
+Instagram: @deltarobotone #deltarobotone
+
+Facebook: Deltarobotone
+
+Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFRA)
+
 # Arduino Library
 
 The arduino based system helps you to do the first steps easily. It is quite easy to start, so everyone is invited to have some time with this smart robot. If you would like to go more into detail you can do this without any problem because the software is open source.
@@ -193,6 +201,8 @@ Wiki: [One Smart Control Desktop](https://github.com/deltarobotone/one_smart_con
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="850">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
+[<img src="http://img.youtube.com/vi/YD9djV_gC4c/0.jpg" width="850">](https://youtu.be/YD9djV_gC4c)
+
 # Android Application: One Smart Control Mobile
 
 For all those who want to control the robot from a mobile device we developed an application for android based systems. The One Smart Control application is written in C++ using the Qt-Creator IDE and Qt-Framework.
@@ -209,10 +219,12 @@ Download: [Google Play Store](https://play.google.com/store/apps/details?id=one.
 
 Wiki: [One Smart Control Mobile](https://github.com/deltarobotone/one_smart_control_mobile/wiki)
 
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png" width="175">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png" width="175">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png" width="175">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png" width="175">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png)
+
+[<img src="http://img.youtube.com/vi/ch6Thpv_J9k/0.jpg" width="850">](https://youtu.be/ch6Thpv_J9k)
 
 # Grasp some metal chips with Delta-Robot One
 
@@ -239,26 +251,11 @@ There you get all the informations to calculate the servo angles to control a de
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(6).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(6).png)
 
-Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
-
 # Hardware parts and documentation! 
 
 For everyone who like to build Delta-Robot One there is a way to do this. In this repository you get all information and files to produce this smart little robot by yourself. 
 
 [>>> Hardware parts wiki<<<](https://github.com/deltarobotone/hardware_parts/wiki)
-
-| Parts/Documentation| Image|
-| --- | --- |
-| [Layers parts](https://github.com/deltarobotone/hardware_parts/wiki/Layers-parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(7).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Layers-parts) |
-| [Electronic parts](https://github.com/deltarobotone/hardware_parts/wiki/Electronic-parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(2).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Electronic-parts) |
-| [3D-Printed<br>Mechanic parts](https://github.com/deltarobotone/hardware_parts/wiki/3D-Printed-Parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/3D-Printed-Parts) |
-|[Metal<br>Mechanic parts](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-parts) | [<img src="https://github.com/deltarobotone/image_database/blob/master/metal_parts/metal_parts%20(1).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-parts) |
-|[Circuitboard Schematics](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics) | [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(31).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics) |
-|[Full System Demo](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Full-System-Demo) | [<img src=https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(33).PNG width="300">](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Full-System-Demo)  |
-|[Layers Drawings](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings) | [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(1).png" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings) |
-|[Mechanic Drawings](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-Drawings) | [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(1).png" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-Drawings)  |
-|[Kinematics](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Kinematics) | [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(6).png" width="300">](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Kinematics)  |
-|[Workingspace](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Workingspace) | [<img src="https://raw.githubusercontent.com/deltarobotone/how_to_build_your_robot/master/deltarobotone/PNG/Workingspace.png" width="300">](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Workingspace)  |
 
 
 # Video gallery 
