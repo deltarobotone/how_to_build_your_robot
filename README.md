@@ -211,7 +211,9 @@ Wiki: One Smart Control Mobile
 
 # Grasp some metal chips with Delta-Robot One
 
-This video clip show a Delt-Robot One with long pillars (found at hardware_parts) and a conveyor system. This system would be shared soon in another project.
+This video clip show a Delta-Robot One with long pillars (found at hardware_parts) and a conveyor system. This system would be shared soon in another project.
+
+
 
 We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the following video you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend yout robot.
 
@@ -229,6 +231,8 @@ This is about the kinematics of Delta-Robot One. If you want to know something a
 >>>Kinematics<<<
 
 There you get all the informations to calculate the servo angles to control a delta robot like this. No worrys this is not complicated mathematics. The main advantage of this robot is that all things we have to know are basic geometric functions.
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(6).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(6).png)
 
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
 
