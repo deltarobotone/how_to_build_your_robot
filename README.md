@@ -1,10 +1,14 @@
+[**>>>Direct link to how to build your robot wiki<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
+
 # Welcome robot friends! 
 
 We decided to create this little robot to have an interdisciplinary subject in our studies. This project turned into a journey lasting over three years and two things always stayed the same...fun and Arduino UNO ;) Drawing, lasercutting, soldering, 3D-printing, programming an arduino library, a python package, an android and a windows app, etc....it is turning in a never ending story. With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 
-[**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
+Our four One's welcome you with a short clip...
 
 [<img src="http://img.youtube.com/vi/xEFp4XrQJKs/0.jpg" width="500">](https://www.youtube.com/watch?v=xEFp4XrQJKs)
+
+...keep smiling :)
 
 # Delta-Robot One
 
@@ -66,9 +70,9 @@ robot.functions.waitFor(2000);
 # Python package
 Delta-Robot One recieves data using a very simple structure. This structure is called the one easy protocol. Have a look at this easy protocol to understand how it works. A Python package provides this communication protocol with a high level interface to control Delta-Robot One from other systems. So you can control your robot easily from a system like a Raspberry Pi via USB. Use python package manager to install one-easy-protocol on your system:
 
-Python 2 -> pip install one-easy-protocol
+Python 2 -> ***pip install one-easy-protocol***
 
-Python 3 -> pip3 install one-easy-protocol
+Python 3 -> ***pip3 install one-easy-protocol***
 
 Sourcecode, Tutorials and Documentation of One Easy Protocol:
 
