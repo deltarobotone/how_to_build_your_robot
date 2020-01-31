@@ -29,7 +29,7 @@ If you want to use arduino code directly check out the examples. Here a short ex
 
 Move robot -> move.ptp(position x, position y, position z)
 
-c```
+```c
 //Create the DeltaRobotOne-Object
 DeltaRobotOne robot(0, 0, 0, 0, 0, 0, 0x27);
 void setup()
