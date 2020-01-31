@@ -145,9 +145,13 @@ All Schematics are availible also in a fritzing version...
 
 >>>Pillar Package<<<
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG)
+
 All drawings of the mechanics are availible...
 
 >>>Drawings<<<
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(1).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(1).png)
 
 # Robot is moving like this...
 
