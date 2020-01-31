@@ -81,7 +81,7 @@ Wiki: >>>How to build you robot<<<
 
 [<img src="http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg" width="500">](https://www.youtube.com/watch?v=3GcX2WYTDjQ)
 
-#Layers
+# Layers
 
 >>>Documentation<<<
 
@@ -155,13 +155,20 @@ All drawings of the mechanics are availible...
 
 # Robot is moving like this...
 
+[<img src="http://img.youtube.com/vi/8iWXzC4VD2A/0.jpg" width="500">](https://www.youtube.com/watch?v=8iWXzC4VD2A)
+
+
 # Pick and place with magnet gripper
+
+[<img src="http://img.youtube.com/vi/m6nE2A7ZUi0/0.jpg" width="500">](https://www.youtube.com/watch?v=m6nE2A7ZUi0)
 
 # Servo Motor
 
 We change the servo motor from Tower Pro MG91 to MG92B because of the availibility. Adafruit Industries provide this motor and so you can easily get this part from providers like mouser, conrad and so on. The form factor is the same and the torque a little bit higher so all in all it is an advantage to use this servo motor. Thanks to Adafruit to provide this part. A few more parts of this robot are provided by Adafruit like the magnet gripper, leds and in the future it is planned to integrate the bluefruit module.
 
 Tower Pro MG92BGear: MetalDimension: 22.8x12x31 mmTorque: 3.1kg/cm (4.8v)Speed: 0.13sec/60degree (4.8v)Voltage: 4.8~6.6v
+
+
 
 # Windows 10 Application: One Smart Control Desktop
 
