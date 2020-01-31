@@ -137,7 +137,7 @@ Shop link: [>>>One Circuit Board<<<](https://aisler.net/p/DTEIKQWW)
 ***How to get the parts?*** All of this are standard parts...
 
 - You can check your own maker stock first ;)
-- Use the partlist on the second link above and check the recommended shops
+- Use the partlist on the link above and check the recommended shops
 - A lot of shops and maybe your school or university have this parts availible
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(2).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(2).PNG)
