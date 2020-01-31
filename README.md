@@ -4,7 +4,7 @@ We decided to create this little robot to have an interdisciplinary subject in o
 
 # [**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
-[<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="1000">](https://youtu.be/NdPv1pEZnJw)
+[<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="750">](https://youtu.be/NdPv1pEZnJw)
 
 # Delta-Robot One
 
@@ -22,7 +22,7 @@ Install the library usingArduino IDE library manager and choose -> ***OneSystemL
 
 This library comes with 20 examples to provide functions of the interface
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(33).PNG" width="1000">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(33).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(33).PNG" width="750">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(33).PNG)
 
 A full system demo (found in examples) is integrated. If you start the robot at the first time use this example to check out how Delta-Robot One works. It provides a lot of functions and you can use the robot like a stand alone system and check out the mobile and dektop application first.
 
@@ -67,7 +67,7 @@ For C++ version of One Easy Protocol have a look at:
 
 >>>One Easy Protocol C++<<<
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(20).PNG" width="1000">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(20).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(20).PNG" width="750">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(20).PNG)
 
 # Robot assembly
 
