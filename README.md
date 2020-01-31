@@ -245,6 +245,8 @@ There are interfaces provided for:
 - I2C Bus (SCL/SDA)
 - Power/GND (5V/max. 4A)
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/gripper/gripper%20(3).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/gripper/gripper%20(3).PNG)
+
 # Robotics
 
 This is about the kinematics of Delta-Robot One. If you want to know something about the robot movement check out the explanations on following page:
