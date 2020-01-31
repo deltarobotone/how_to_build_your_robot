@@ -4,7 +4,7 @@ We decided to create this little robot to have an interdisciplinary subject in o
 
 [**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
-[<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="500">](https://youtu.be/NdPv1pEZnJw)
+[<img src="http://img.youtube.com/vi/xEFp4XrQJKs/0.jpg" width="500">](https://www.youtube.com/watch?v=xEFp4XrQJKs)
 
 # Delta-Robot One
 
@@ -199,9 +199,9 @@ Download: [Direct Link](https://github.com/deltarobotone/one_smart_control_deskt
 
 Wiki: [One Smart Control Desktop](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="850">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="800">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
-[<img src="http://img.youtube.com/vi/YD9djV_gC4c/0.jpg" width="850">](https://youtu.be/YD9djV_gC4c)
+[<img src="http://img.youtube.com/vi/YD9djV_gC4c/0.jpg" width="500">](https://youtu.be/YD9djV_gC4c)
 
 # Android Application: One Smart Control Mobile
 
@@ -224,7 +224,7 @@ Wiki: [One Smart Control Mobile](https://github.com/deltarobotone/one_smart_cont
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png" width="175">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png" width="175">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png)
 
-[<img src="http://img.youtube.com/vi/ch6Thpv_J9k/0.jpg" width="850">](https://youtu.be/ch6Thpv_J9k)
+[<img src="http://img.youtube.com/vi/ch6Thpv_J9k/0.jpg" width="500">](https://youtu.be/ch6Thpv_J9k)
 
 # Grasp some metal chips with Delta-Robot One
 
