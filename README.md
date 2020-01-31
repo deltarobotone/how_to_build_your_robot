@@ -8,7 +8,7 @@ Our four One's welcome you with a short clip...
 
 ...keep smiling :)
 
-# [**>>>Direct link to how to build your robot wiki<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
+# Direct link -> [**>>>how to build your robot wiki<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
 # Delta-Robot One
 
