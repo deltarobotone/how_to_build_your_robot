@@ -23,6 +23,8 @@ Install the library usingArduino IDE library manager and choose -> ***OneSystemL
 
 This library comes with 20 examples to provide functions of the interface
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(33).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(33).PNG)
+
 A full system demo (found in examples) is integrated. If you start the robot at the first time use this example to check out how Delta-Robot One works. It provides a lot of functions and you can use the robot like a stand alone system and check out the mobile and dektop application first.
 
 If you want to use arduino code directly check out the examples. Here a short example how easy the programming interface is:
