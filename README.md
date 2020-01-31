@@ -2,7 +2,7 @@
 
 We decided to create this little robot to have an interdisciplinary subject in our studies. This project turned into a journey lasting over three years and two things always stayed the same...fun and Arduino UNO ;) Drawing, lasercutting, soldering, 3D-printing, programming an arduino library, a python package, an android and a windows app, etc....it is turning in a never ending story. With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 
-# [**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
+[**>>>Use this link for the how to build your robot wiki!<<<**](https://github.com/deltarobotone/how_to_build_your_one/wiki) 
 
 [<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="500">](https://youtu.be/NdPv1pEZnJw)
 
@@ -18,7 +18,7 @@ Let's introduce this smart little robot. His name is „One“ because he combin
 
 The arduino based system helps you to do the first steps easily. It is quite easy to start, so everyone is invited to have some time with this smart robot. If you would like to go more into detail you can do this without any problem because the software is open source.
 
-Sourcecode: >>>One System Library<<<
+Sourcecode: [>>>One System Library<<<](https://github.com/deltarobotone/one_system_library)
 
 Install the library usingArduino IDE library manager and choose -> ***OneSystemLibrary***
 
@@ -64,11 +64,11 @@ Python 3 -> pip3 install one-easy-protocol
 
 Sourcecode, Tutorials and Documentation of One Easy Protocol:
 
->>>One Easy Protocol Python<<<
+[>>>One Easy Protocol Python<<<](https://github.com/deltarobotone/one-easy-protocol)
 
 For C++ version of One Easy Protocol have a look at:
 
->>>One Easy Protocol C++<<<
+[>>>One Easy Protocol C++<<<](https://github.com/deltarobotone/one_easy_protocol)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(20).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(20).PNG)
 
@@ -78,7 +78,7 @@ Delta-Robot One is designed as a Kit. The layer system of the body and a clickab
 
 How to build your robot? No worrys we create a wiki...
 
-Wiki: >>>How to build you robot<<<
+Wiki: [>>>How to build you robot<<<](https://github.com/deltarobotone/how_to_build_your_robot)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).PNG)
 
@@ -88,14 +88,14 @@ Wiki: >>>How to build you robot<<<
 
 # Layers
 
->>>Documentation<<<
+[>>>Documentation<<<](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Layers-parts)
 
->>>Files<<<
+[>>>Files<<<](https://github.com/deltarobotone/hardware_parts/tree/master/Lasercut)
 
 ***How to get the layers?*** There are many ways...
 
 - You can use a lasercutter in a Techshop/Makerspace or your School/University
-- We ordered from cutcraft a few times so we can recommend this service
+- We ordered from [cutcraft](http://cutcraft.de/) a few times so we can recommend this service
 - We don't try it but with a 3D-Printer it has to be possible to create the layers too
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(7).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(7).PNG)
@@ -106,21 +106,21 @@ Be creative and choose your own design to build an individual robot. Make the wo
 
 All drawings of the layer system are availible...
 
->>>Drawings<<<
+[>>>Drawings<<<](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(1).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_drawings/layers_drawings%20(1).png)
 
 # Electronics
 
->>>Partlist<<<
+[>>>Partlist<<<](https://github.com/deltarobotone/hardware_parts/wiki/Electronic-parts)
 
->>>Files<<<
+[>>>Files<<<](https://github.com/deltarobotone/hardware_parts/tree/master/Circuit_Board)
 
 ***How to get the board?*** No problem...
 
 ...we uploaded our board to the aisler.com page. So you only have to follow this link and create an account to order the board for a good price.
 
-Shop link: >>>One Circuit Board<<<
+Shop link: [>>>One Circuit Board<<<](https://aisler.net/p/DTEIKQWW)
 
 How to get the parts? All of this are standard parts...
 
@@ -132,29 +132,29 @@ How to get the parts? All of this are standard parts...
 
 All Schematics are availible also in a fritzing version...
 
->>>Schematics<<<
+[>>>Schematics<<<](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/circuit_board_schematics/circuit_board_schematics%20(4).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_schematics/circuit_board_schematics%20(4).png)
 
 # Mechanics
 
->>>Documentation<<<
+[>>>Documentation<<<](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Mechanic-parts)
 
->>>Files<<<
+[>>>Files<<<](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print)
 
 ***How to get the parts?*** No problem...
 
-...we tested i.materialise.com and created some shop items so you can easily order the required parts using this links:
+...we tested [i.materialise.com](http://i.materialise.com/) and created some shop items so you can easily order the required parts using this links:
 
->>>Kinematics Package<<<
+[>>>Kinematics Package<<<](https://i.materialise.com/de/shop/item/one-kinematics-package)
 
->>>Pillar Package<<<
+[>>>Pillar Package<<<](https://i.materialise.com/de/shop/item/pillar-package)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG)
 
 All drawings of the mechanics are availible...
 
->>>Drawings<<<
+[>>>Drawings<<<](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-Drawings)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(1).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_drawings/mechanic_drawings%20(1).png)
 
@@ -185,11 +185,11 @@ The main advantage of this application is the integrated flowchart. It is a tool
 
 This application is based of One Easy Protocol C++ extended with signal and slots as a QObject. So it is possible to use it in your own Qt based project.
 
-Sourcecode: One Smart Control Desktop
+Sourcecode: [One Smart Control Desktop](https://github.com/deltarobotone/one_smart_control_desktop)
 
-Download: Direct Link
+Download: [Direct Link](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip)
 
-Wiki: One Smart Control Desktop
+Wiki: [One Smart Control Desktop](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="850">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
 
@@ -203,11 +203,11 @@ The main advantage of this application is the integrated flowchart. It is a tool
 
 This application is based of One Easy Protocol C++ extended with signals and slots as a QObject. In this version the One Easy Protocol is mapped to a Bluetooth device using a QT-Framework bluetooth BLE example. So it is possible to use it in your own Qt based project.
 
-Sourcecode: One Smart Control Mobile
+Sourcecode: [One Smart Control Mobile](https://github.com/deltarobotone/one_smart_control_mobile)
 
-Download: Google Play Store
+Download: [Google Play Store](https://play.google.com/store/apps/details?id=one.smart.control.mobile&gl=DE)
 
-Wiki: One Smart Control Mobile
+Wiki: [One Smart Control Mobile](https://github.com/deltarobotone/one_smart_control_mobile/wiki)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png)
 [<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png)
@@ -218,7 +218,7 @@ Wiki: One Smart Control Mobile
 
 This video clip show a Delta-Robot One with long pillars (found at hardware_parts) and a conveyor system. This system would be shared soon in another project.
 
-
+[<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="500">](https://www.youtube.com/watch?v=MGw2fCCIe-g)
 
 We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the following video you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend yout robot.
 
