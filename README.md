@@ -168,7 +168,7 @@ We change the servo motor from Tower Pro MG91 to MG92B because of the availibili
 
 Tower Pro MG92BGear: MetalDimension: 22.8x12x31 mmTorque: 3.1kg/cm (4.8v)Speed: 0.13sec/60degree (4.8v)Voltage: 4.8~6.6v
 
-
+[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(26).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(26).PNG)
 
 # Windows 10 Application: One Smart Control Desktop
 
@@ -186,6 +186,8 @@ Download: Direct Link
 
 Wiki: One Smart Control Desktop
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="850">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
+
 # Android Application: One Smart Control Mobile
 
 For all those who want to control the robot from a mobile device we developed an application for android based systems. The One Smart Control application is written in C++ using the Qt-Creator IDE and Qt-Framework.
@@ -201,6 +203,11 @@ Sourcecode: One Smart Control Mobile
 Download: Google Play Store
 
 Wiki: One Smart Control Mobile
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png)
 
 # Grasp some metal chips with Delta-Robot One
 
@@ -224,40 +231,6 @@ This is about the kinematics of Delta-Robot One. If you want to know something a
 There you get all the informations to calculate the servo angles to control a delta robot like this. No worrys this is not complicated mathematics. The main advantage of this robot is that all things we have to know are basic geometric functions.
 
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
-
-# One Smart Control
-
-<Img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(8).PNG" width=300>
-
-## One Smart Control Desktop for Windows 10
-
-### [**>>>Download here<<<**](https://github.com/deltarobotone/one_smart_control_desktop/archive/v0.3-install.zip) 
-
-### [**>>>One Smart Control Desktop Wiki<<<**](https://github.com/deltarobotone/one_smart_control_desktop/wiki)
-
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png" width="850">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control/smart_control%20(2).png)
-
-## One Smart Control Mobile for Android
-
-### [**>>>Google Play Store<<<**](https://play.google.com/store/apps/details?id=one.smart.control.mobile&gl=DE)
-
-### [**>>>One Smart Control Mobile Wiki<<<**](https://github.com/deltarobotone/one_smart_control_mobile/wiki)
-
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(8).png)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(10).png)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(13).png)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png" width="150">](https://raw.githubusercontent.com/deltarobotone/image_database/master/smart_control_mobile_screenshots/smart_control_mobile_screenshots%20(16).png)
-
-# Servo Motor
-
-We change the servo motor from Tower Pro MG91 to MG92B because of the availibility. Adafruit Industries provide this motor and so you can easily get this part from providers like mouser, conrad and so on. The form factor is the same and the torque a little bit higher so all in all it is an advantage to use this servo motor. Thanks to Adafruit to provide this part. A few more parts of this robot are provided by Adafruit like the magnet gripper, leds and in the future it is planned to integrate the bluefruit module.
-
-Tower Pro MG92B<br>Gear: Metal<br>Dimension: 22.8x12x31 mm<br>Torque: 3.1kg/cm (4.8v)<br>Speed: 0.13sec/60degree (4.8v)<br>Voltage: 4.8~6.6v
-
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(25).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(25).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(26).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(26).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(27).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(27).PNG)
-[<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(28).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(28).PNG)
 
 # Hardware parts and documentation! 
 
