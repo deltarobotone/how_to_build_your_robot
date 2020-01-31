@@ -93,7 +93,11 @@ Wiki: >>>How to build you robot<<<
 - We ordered from cutcraft a few times so we can recommend this service
 - We don't try it but with a 3D-Printer it has to be possible to create the layers too
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(7).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(7).PNG)
+
 Be creative and choose your own design to build an individual robot. Make the world of robots more colourful...
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(4).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_colors/layers_colors%20(4).PNG)
 
 All drawings of the layer system are availible...
 
