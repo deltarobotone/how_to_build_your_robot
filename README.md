@@ -88,7 +88,7 @@ How to build your robot? No worrys we create a wiki...
 
 Wiki: [>>>How to build you robot<<<](https://github.com/deltarobotone/how_to_build_your_robot)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).png)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).jpg" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).jpg)
 
 # Robot assembly video clip
 
@@ -130,7 +130,7 @@ All drawings of the layer system are availible...
 
 Shop link: [>>>One Circuit Board<<<](https://aisler.net/p/DTEIKQWW)
 
-How to get the parts? All of this are standard parts...
+***How to get the parts?*** All of this are standard parts...
 
 - You can check your own maker stock first ;)
 - Use the partlist on the second link above and check the recommended shops
@@ -245,7 +245,7 @@ There are interfaces provided for:
 
 This is about the kinematics of Delta-Robot One. If you want to know something about the robot movement check out the explanations on following page:
 
->>>Kinematics<<<
+[>>>Kinematics<<<](https://github.com/deltarobotone/how_to_build_your_robot/wiki/Kinematics)
 
 There you get all the informations to calculate the servo angles to control a delta robot like this. No worrys this is not complicated mathematics. The main advantage of this robot is that all things we have to know are basic geometric functions.
 
