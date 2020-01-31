@@ -79,7 +79,7 @@ Wiki: >>>How to build you robot<<<
 
 # Robot assembly video clip
 
-
+[<img src="http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg" width="500">](https://www.youtube.com/watch?v=3GcX2WYTDjQ)
 
 #Layers
 
