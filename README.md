@@ -10,7 +10,7 @@ We decided to create this little robot to have an interdisciplinary subject in o
 
 Delta-Robot One is mainly designed for students and makers with an educational thought. Everyone who likes to learn something about robotics can take a look at different fields - electronics, mechanics and informatics.
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(35).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(35).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(35).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(35).png)
 
 Let's introduce this smart little robot. His name is „One“ because he combines a lot of technical topics in one single system. This kind of robot is called delta and it belongs to the family of parallel robots.
 
@@ -88,7 +88,7 @@ How to build your robot? No worrys we create a wiki...
 
 Wiki: [>>>How to build you robot<<<](https://github.com/deltarobotone/how_to_build_your_robot)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/delta_robot_one/delta_robot_one%20(36).png)
 
 # Robot assembly video clip
 
