@@ -88,7 +88,7 @@ For C++ version of One Easy Protocol have a look at:
 
 Delta-Robot One is designed as a Kit. The layer system of the body and a clickable mechanical solution make the assembly fast and easy. A structured circuit board makes the soldering more comfortable. Choose the colour of some parts to give the robot an individual look. All in all building the robot provides you with a short practical, educational and interesting experience. Now it‘s time to build your own One!
 
-How to build your robot? No worrys we create a wiki...
+***How to build your robot?*** No worrys we create a wiki...
 
 Wiki: [>>>How to build you robot<<<](https://github.com/deltarobotone/how_to_build_your_robot)
 
