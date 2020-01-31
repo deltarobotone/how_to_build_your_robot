@@ -183,7 +183,13 @@ All drawings of the mechanics are availible...
 
 We change the servo motor from Tower Pro MG91 to MG92B because of the availibility. Adafruit Industries provide this motor and so you can easily get this part from providers like mouser, conrad and so on. The form factor is the same and the torque a little bit higher so all in all it is an advantage to use this servo motor. Thanks to Adafruit to provide this part. A few more parts of this robot are provided by Adafruit like the magnet gripper, leds and in the future it is planned to integrate the bluefruit module.
 
-Tower Pro MG92BGear: MetalDimension: 22.8x12x31 mmTorque: 3.1kg/cm (4.8v)Speed: 0.13sec/60degree (4.8v)Voltage: 4.8~6.6v
+Tower Pro MG92B
+
+- Gear: Metal
+- Dimension: 22.8x12x31 mm
+- Torque: 3.1kg/cm (4.8v)
+- Speed: 0.13sec/60degree (4.8v)
+- Voltage: 4.8~6.6v
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/servo_assembly/servo_assembly%20(26).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/servo_assembly/servo_assembly%20(26).PNG)
 
