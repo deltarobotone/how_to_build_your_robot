@@ -16,8 +16,6 @@ The arduino based system helps you to do the first steps easily. If you would li
 
 Follow us on Instagram and share your time with this smart little robot [#deltarobotone](https://www.instagram.com/deltarobotone/)
 
-<iframe frameborder='0' height='410' scrolling='no' src='https://create.arduino.cc/projecthub/deltarobotone/delta-robot-one-8386a1/embed' width='360' style='margin-top:30px'></iframe>
-
 # One Smart Control
 
 <Img src="https://github.com/deltarobotone/image_database/blob/master/logos/logos%20(8).PNG" width=300>
