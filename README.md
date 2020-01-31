@@ -103,6 +103,8 @@ All drawings of the layer system are availible...
 
 >>>Drawings<<<
 
+[<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(1).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/layers_drawings/layers_drawings%20(1).png)
+
 # Electronics
 
 >>>Partlist<<<
@@ -121,9 +123,13 @@ How to get the parts? All of this are standard parts...
 - Use the partlist on the second link above and check the recommended shops
 - A lot of shops and maybe your school or university have this parts availible
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(2).PNG" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(2).PNG)
+
 All Schematics are availible also in a fritzing version...
 
 >>>Schematics<<<
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/circuit_board_schematics/circuit_board_schematics%20(4).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_schematics/circuit_board_schematics%20(4).png)
 
 # Mechanics
 
